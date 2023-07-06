@@ -1,0 +1,91 @@
+15
+Frank Shoemaker
+000-000-0000
+x@gmail.com
+Active
+2
+325000
+Bailey Lingen
+111-111-1111
+Bailey@gmail.com
+Active
+0
+0
+Becky Rakos
+224-489-2741
+rebecca@gmail.com
+Active
+0
+0
+Bree Doyle
+111-111-1111
+bree@gmail.com
+Active
+0
+0
+Chris Kivalhan
+847-521-0922
+chris@gmail.com
+Active
+0
+0
+Frank Shoemaker
+000-000-0000
+x@gmail.com
+Active
+2
+325000
+Greg Sinnott
+224-388-7920
+greg@gmail.com
+Active
+0
+0
+Kat Sinnott
+555-555-5555
+kat@gmail.com
+Active
+0
+0
+Liz O'Kelly
+333-333-3333
+Liz@gmail.com
+Active
+0
+0
+Paula Kane
+847-670-2942
+paula@gmail.com
+Active
+0
+0
+Rachel Shoemaker
+224-489-2745
+rachel@gmail.com
+Active
+1
+50000
+Sev Lesker
+777-777-6969
+Sev@gmail.com
+Active
+0
+0
+Steve S
+111-222-3456
+steve@hotmail.com
+Active
+0
+0
+Sydney Penna
+234-567-8900
+Syd@gmail.com
+Active
+0
+0
+Terry Sinnott
+999-999-9999
+Terry@gmail.com
+Active
+0
+0
