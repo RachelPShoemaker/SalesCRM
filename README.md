@@ -97,10 +97,10 @@ Enter "m" to return to the main menu.
 
 ## Information on the code
 CRM organizes it's employee/client records in a binary search tree. This program has four classes,
-  BST.h and BST.cpp (This class is for the nodes of the binary search tree.)
-  person.h and person.cpp: (This class is the parent class for the employee and client classes.)
-  employee.h and employee.cpp
-  client.h and client.cpp
+* BST.h and BST.cpp (This class is for the nodes of the binary search tree.)
+* person.h and person.cpp: (This class is the parent class for the employee and client classes.)
+* employee.h and employee.cpp
+* client.h and client.cpp
 
 ## Built With
 Visual Studio in C++
