@@ -244,6 +244,7 @@ void employeeMenu() {
 			deleteByName(employeeTree, name_input);
 			delete employee;
 			countEmployee--;
+			cout << "Record deleted." << endl;
 			break;
 		case 'a': // Updates phone number
 			if(countEmployee == 0) { 
@@ -428,6 +429,7 @@ void clientMenu() {
 			deleteByName(clientTree, name_input);
 			delete client;
 			countClient--;
+			cout << "Record deleted." << endl;
 			break;
 		case 'a': // Updates phone number
 			if (countClient == 0) {
