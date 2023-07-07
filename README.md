@@ -19,7 +19,8 @@ Click the file "SalesCRM.sln" and it will launch in Visual Studio.
 Once you are in Visual Studio, you can run my program by clicking the green triangle. The terminal will open and you will see the main menu.
 
 ## Information on the code
-CRM organizes it's employee/client records in a binary search tree. This program has four classes,
+CRM organizes it's employee/client records in a binary search tree. This program has five classes,
+* main.cpp
 * BST.h and BST.cpp (This class is for the nodes of the binary search tree.)
 * person.h and person.cpp: (This class is the parent class for the employee and client classes.)
 * employee.h and employee.cpp
