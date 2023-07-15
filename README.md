@@ -3,7 +3,7 @@ This Customer Relationship Management(CRM) system is a tool for a company's sale
 It allows the user to create, search, delete, or update records. It can also display the complete list of contacts in alphabetical order.	
 The employee record stores the name, phone, email, sales totals, and the total number of clients they have. 
 The CRM automatically updates the employee's sales total and number of clients.
-The client record stores name, phone, email, the employee they're working with, and the date of most recent contact, and notes about how the sale is going. 
+The client record stores name, phone, email, the employee they're working with, the date of most recent contact, and notes about how the sale is going. 
 The record can be assigned to an existing employee record. Once the client is ready to buy, the user can finalize the sale and enter how much the customer paid. 
 The payment will be automatically added to the associated employee's sales totals.
 
@@ -35,7 +35,7 @@ After you choose to quit the program, the data is saved automatically before clo
 ## Employee Menu
 ### Add new contact
 In the employee menu, you can add a new employee by entering "1".
-CRM will prompt you to enter the employee's name, phone number, and email. If the employee record already exists, it won't let you create it and the error message will appear.
+CRM will prompt you to enter the employee's name, phone number, and email. An error message will appear if an identical record already exists.
 
 ### Search contact
 You can search for an existing contact by entering "2". CRM will prompt you to enter the salesperson's name. Their contact information, number of clients,
@@ -73,7 +73,7 @@ Finally, CRM will prompt you to enter the date the sales employee most recently 
 To search for a client record, enter "2". This function works the same way as the Employee Seach contact process.
 
 ### Display
-To display all the clients and their information, enter "3". The client will be listed in alphabetical order by first name.
+To display all the clients and their information, enter "3". The clients will be listed in alphabetical order by first name.
 It lists the phone number, email, name of the employee they're assigned to, the date they most recently spoke to the sales employee,
 and notes about the conversation. 
 
